@@ -12,5 +12,6 @@ The steps are:
 1. Download the files to your PC.
 2. From RStudio change working directory to downloaded directory.
 3. run code.R lines
+4. Put url showed in console in a web browser
 
 The assesment use the galton data of parents height to compare your height with galton data. It shows a red line with your height inside the parents histogram and show another green line with the data mean. It writes also the difference between them.
